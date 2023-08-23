@@ -12,7 +12,7 @@
     <br/>
     <a href="https://github.com/MariferVL/Simon_Game" target="_blank"><strong>Documents Access »</strong></a>
     <br/>
-     <a href="https://outsy.web.app/" target="_blank"><strong>Deploy Access »</strong></a>
+     <a href="https://marifervl.github.io/Simon_Game/" target="_blank"><strong>Deploy Access »</strong></a>
     <br/>
 
 Welcome to Simon Game - a classic memory and pattern recognition game built with HTML, CSS, and JavaScript. Test your memory skills by following the pattern of flashing colored circles and repeat the sequence correctly to progress through levels.
