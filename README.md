@@ -59,6 +59,11 @@ Here's a preview of the Simon Game in action:
 ![Demo](https://github.com/MariferVL/Simon_Game/assets/99364311/8376d3cf-72a8-4b9c-808c-2ac52ee522a3)
 
 
+## Creation Date
+
+This project was created on: *October 03, 2022*
+
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
