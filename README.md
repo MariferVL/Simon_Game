@@ -19,6 +19,11 @@
 Welcome to Simon Game - a classic memory and pattern recognition game built with HTML, CSS, and JavaScript. Test your memory skills by following the pattern of flashing colored circles and repeat the sequence correctly to progress through levels.
 
 
+## Creation Date
+
+This project was created on: *October 03, 2022*
+
+
 ## How to Play
 
 1. Clone this repository to your local machine or simply download the source code.
@@ -58,10 +63,6 @@ Here's a preview of the Simon Game in action:
 
 ![Demo](https://github.com/MariferVL/Simon_Game/assets/99364311/8376d3cf-72a8-4b9c-808c-2ac52ee522a3)
 
-
-## Creation Date
-
-This project was created on: *October 03, 2022*
 
 
 ## License
